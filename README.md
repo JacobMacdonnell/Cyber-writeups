@@ -1,4 +1,4 @@
-# PicoCTF Writeups
+# Cybersecurity Writeups
 
 A collection of my solutions and writeups for various cybersecurity CTF's and challenges.
 
