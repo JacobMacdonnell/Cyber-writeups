@@ -1,4 +1,4 @@
-# Solving Big Zip in picoCTF
+# Solving 'Big Zip' on picoCTF
 
 ## Challenge Overview:
 The **BigZip** challenge involves extracting the flag hidden within a zip file. The zip file contains numerous files and directories, and the goal is to find the flag, which is in the format `picoCTF{}`, hidden within its contents.
